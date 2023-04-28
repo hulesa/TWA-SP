@@ -1,0 +1,62 @@
+body{
+    background: url(images/galery/background.png) rgba(0, 162, 255, 0.6);
+}
+
+body > header{
+    text-align: center;
+    width: 80%;
+    background: white;
+    margin-left: 10%;
+    margin-bottom: 15px;
+    min-width: 487px;
+    padding-bottom: 7px;
+}
+
+body header a img{
+    margin-bottom: -15px;
+}
+
+h1{
+    text-shadow: 2px -2px 4px yellow;
+}
+
+.text > h2{
+    text-align: center;
+}
+
+.text{
+    float:left;
+    width: 350px;
+    /*height: 900px;*/
+
+    background: white;
+    border: solid 1px black;
+
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+
+    margin-left: 3.5%;
+    margin-right: 3.5%;
+    margin-bottom: 15px;
+    margin-top: 15px;
+}
+
+.clear{
+    clear: both;
+}
+
+footer{
+    float: right;
+    text-align: right;
+    font-size: 0.8em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin:10px;
+    width: 100px;
+    height: 30px;
+    padding: 5px;
+    background: white;
+}
