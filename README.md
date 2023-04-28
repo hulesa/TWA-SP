@@ -1,1 +1,1 @@
-# TWA-SP
+Webové stránky vznikly jako semestrální práce při EF JU.
